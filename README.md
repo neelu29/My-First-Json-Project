@@ -1,2 +1,3 @@
 # My-First-Json-Project
-This Is My First Project On GitHub
+
+ I like JBDB and javascript that's why i have made this.
